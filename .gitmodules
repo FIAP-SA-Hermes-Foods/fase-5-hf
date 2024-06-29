@@ -1,0 +1,12 @@
+[submodule "api-service"]
+	path = api-service
+	url = https://github.com/FIAP-SA-Hermes-Foods/api-service.git
+[submodule "orch"]
+	path = orch
+	url = https://github.com/FIAP-SA-Hermes-Foods/orch.git
+[submodule "pub"]
+	path = pub
+	url = https://github.com/FIAP-SA-Hermes-Foods/pub.git
+[submodule "sub"]
+	path = sub
+	url = https://github.com/FIAP-SA-Hermes-Foods/sub.git
