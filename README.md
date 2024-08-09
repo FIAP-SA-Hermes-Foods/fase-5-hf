@@ -6,8 +6,6 @@
 * [Others Microservices](#Microservices)
 * [Documentation](#Documentation)
 
-
-
 ### Requirements
 
 On Windows:
@@ -17,13 +15,11 @@ On Windows:
 - Docker v20.10.7 or later (on WSL);
 - Docker-compose v1.25 or later (on WSL).
 ```
-
-
 On Linux/MacOS:
 ```
 - GNU Make v4.0 or later;
 - Docker v20.10.7 or later;
-- Docker-compose v1.25 or later.
+- Docker-compose v1.25 or later.  
 ```
 
 ### Microservices: 
